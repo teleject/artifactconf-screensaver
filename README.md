@@ -1,4 +1,4 @@
-ARTIFACT CONFERENCE 2013 Screen Saver
+ARTIFACT Conference 2013 Screen Saver
 ========================
 
 Since [ARTIFACT](http://artifactconf.com) took place in a dinner movie theater, we wanted to put something on the screen during the lunch break that:
