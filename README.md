@@ -16,7 +16,7 @@ Here are Macintosh OS and Windows OS screensavers of the lunchtime visual spiral
 
 ## For Mactinosh OS Users
 
-Due to Macintosh OS X Mountain Lion or higher users, the Gatekeeper feature prevents software from unidentified developers. 
+In Macintosh OS X Mountain Lion or higher, the Gatekeeper feature prevents software from unidentified developers to be installed automatically. 
 
 To work around this issue, use the following steps:
 
