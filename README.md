@@ -24,6 +24,9 @@ To work around this issue, use the following steps:
 2. A pop-up warning appears stating that the app is from an unidentified developer.
 3. Click Open if you’re sure you want to install the app.
 
-### Copyright &copy; Jennifer Robbins, Environments for Humans, Unmatched Style
+### Copyright &copy; [Jennifer Robbins](http://jenville.com), [Environments for Humans](http://e4h.tv), [Unmatched Style](http://unmatchedstyle.com)
 
 This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+
+
+#### [ARTIFACT](http://artifactconf.com/) is a two-day, single-track conference for DESIGNERS adapting to the challenge of designing for a MULTI-DEVICE world.
