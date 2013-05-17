@@ -1,3 +1,5 @@
+<img src=img/ARTIFACT-photo-by-Adam-McCombs.jpg alt=“Lunchtime at ARTIFACT”>
+
 ARTIFACT Conference 2013 Screen Saver
 ========================
 
@@ -12,6 +14,8 @@ Not an easy challenge.
 Thankfully, Miles Tilmann of [Pixeljam](http://www.pixeljam.com) rose to the challenge.
 
 Here are Macintosh OS and Windows OS screensavers of the lunchtime visual spiral graphs. 
+
+*Photo by [Adam McCombs](http://twitter.com/adammccombs).*
 
 ## For Mactinosh OS Users
 
