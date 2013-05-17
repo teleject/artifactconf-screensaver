@@ -4,9 +4,8 @@ ARTIFACT Conference 2013 Screen Saver
 Since [ARTIFACT](http://artifactconf.com) took place in a dinner movie theater, we wanted to put something on the screen during the lunch break that:
 
 * wasn't a slidedeck on repeat or 
-* too distracting to keep attendee conversations from happening, but 
-* also visually interesting that 
-* added or kept to the emerging design brand.
+* too distracting to keep conversation from happening, and
+* visually interesting 
 
 Not an easy challenge.
 
